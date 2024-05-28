@@ -2,9 +2,10 @@
 
 ## SETUP
 
-- cd final/ open final folder
+- npm i
+- Make sure PORT, DB_HOST, SECRET_KEY is connected in .env
+- npm run start:dev
 
-## Module 3 - Lesson 6: ODM Mongoose
+## Module 4 - Lesson 7: Authentication and Authorization
 
-- Mongoose
-- Connecting Mongoose
+- Authentication with JWT
