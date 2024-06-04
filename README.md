@@ -6,6 +6,7 @@
 - Make sure PORT, DB_HOST, SECRET_KEY is connected in .env
 - npm run start:dev
 
-## Module 4 - Lesson 8: Authentication and Authorization
+## Module 5 - Lesson 9: Work with files
 
-- Authentication with JWT
+- Introduction. File upload
+- Multer
