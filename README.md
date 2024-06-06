@@ -1,8 +1,8 @@
 # GoIT Node Lessons
 
-## SETUP
+## Setup
 
-- npm i
+- cd starter/open starter folder
 
 ## Module 5 - Lesson 10: Testing of Applications
 
