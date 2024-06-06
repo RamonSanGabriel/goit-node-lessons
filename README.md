@@ -3,10 +3,9 @@
 ## SETUP
 
 - npm i
-- Make sure PORT, DB_HOST, SECRET_KEY is connected in .env
-- npm run start:dev
 
-## Module 5 - Lesson 9: Work with files
+## Module 5 - Lesson 10: Testing of Applications
 
-- Introduction. File upload
-- Multer
+- Introduction
+- Libraries for Testing
+- Jest
