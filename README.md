@@ -1,11 +1,5 @@
 # GoIT Node Lessons
 
-## Setup
+## Module 6 - Lesson 11: Work with Email
 
-- cd starter/open starter folder
-
-## Module 5 - Lesson 10: Testing of Applications
-
-- Introduction
-- Libraries for Testing
-- Jest
+- Nodemailer
