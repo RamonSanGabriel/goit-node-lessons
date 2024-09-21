@@ -1,11 +1,10 @@
 {
-  "name": "goit-node-lessons",
+  "name": "module-01-lesson-01",
   "version": "1.0.0",
   "description": "## SETUP",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
